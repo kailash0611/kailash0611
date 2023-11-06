@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kailashrampariya@gmail.com**
 
-<h3 align="left">Connect with me: <a>http://www.linkedin.com/in/kailash-rampariya</a> </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
